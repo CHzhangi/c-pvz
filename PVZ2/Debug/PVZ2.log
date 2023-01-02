@@ -1,0 +1,10 @@
+﻿  Bullet.cpp
+  Console.cpp
+  Display.cpp
+  main.cpp
+  Plant.cpp
+C:\Users\adminis\Desktop\大三上\gaocheng\PVZ2\PVZ2\Plant.cpp(47,9): warning C4101: “i”: 未引用的局部变量
+  map.cpp
+  Zombie.cpp
+  正在生成代码...
+  PVZ2.vcxproj -> C:\Users\adminis\Desktop\大三上\gaocheng\PVZ2\Debug\PVZ2.exe
